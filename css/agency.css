@@ -30,6 +30,10 @@ h6 {
   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
+header{
+      background-color: rgb(232,209,236);
+}
+
 section {
   padding: 100px 0;
 }
